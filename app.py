@@ -25,14 +25,24 @@ DATA_PATH = "Combined Dataset For Project only.xlsx"  # change if your filename 
 # ----------------------------------------------------------------------------
 @st.cache_data
 def load_data(file):
-    activity = pd.read_excel(file, sheet_name="Activity")
-    engagement = pd.read_excel(file, sheet_name="App Engagement")
-    users = pd.read_excel(file, sheet_name="User Profile")
+    activity = pd.read_excel(file, sheet_name="Activity", engine="openpyxl")
+    engagement = pd.read_excel(file, sheet_name="App Engagement", engine="openpyxl")
+    users = pd.read_excel(file, sheet_name="User Profile", engine="openpyxl")
 
     keep_cols = ["Activity_ID", "User_ID", "Date", "Workout_Type", "Duration_Minutes",
                  "Calories_Burned", "Steps_Count", "Heart_Rate_Avg", "Workout_Time_of_Day",
                  "Device_Used"]
     activity = activity[[c for c in keep_cols if c in activity.columns]].copy()
+
+    # Downcast numeric columns to shrink memory footprint (helps on low-RAM hosts)
+    for df in (activity, engagement, users):
+        for col in df.select_dtypes(include="int64").columns:
+            df[col] = pd.to_numeric(df[col], downcast="integer")
+        for col in df.select_dtypes(include="float64").columns:
+            df[col] = pd.to_numeric(df[col], downcast="float")
+        for col in df.select_dtypes(include="object").columns:
+            if df[col].nunique() < len(df) * 0.5:
+                df[col] = df[col].astype("category")
 
     activity["Date"] = pd.to_datetime(activity["Date"])
     engagement["Session_Date"] = pd.to_datetime(engagement["Session_Date"])
