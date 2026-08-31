@@ -1,0 +1,32 @@
+Activity_ID,User_ID,Date,Workout_Type,Duration_Minutes,Calories_Burned,Steps_Count,Heart_Rate_Avg,Workout_Time_of_Day,Device_Used
+A5000,U1102,2025-01-01,Yoga,69,162,6203,134,Afternoon,Fitness Band
+A5001,U1179,2025-01-02,Cardio,46,317,10363,126,Morning,Mobile
+A5002,U1092,2025-01-03,HIIT,85,470,11650,138,Morning,Smartwatch
+A5003,U1014,2025-01-04,HIIT,24,468,5549,162,Evening,Mobile
+A5004,U1106,2025-01-05,Yoga,48,478,6197,117,Evening,Fitness Band
+A5005,U1071,2025-01-06,Cardio,56,699,9009,124,Afternoon,Mobile
+A5006,U1188,2025-01-07,Yoga,57,568,8667,136,Morning,Smartwatch
+A5007,U1020,2025-01-08,Cardio,27,244,4322,155,Morning,Fitness Band
+A5008,U1102,2025-01-09,Running,84,467,11828,159,Evening,Mobile
+A5009,U1121,2025-01-10,Strength,36,385,6090,161,Morning,Smartwatch
+A5010,U1074,2025-01-11,Strength,64,483,8960,116,Morning,Fitness Band
+A5011,U1087,2025-01-12,Strength,23,525,5004,112,Morning,Smartwatch
+A5012,U1116,2025-01-13,Yoga,55,608,7136,138,Evening,Fitness Band
+A5013,U1099,2025-01-14,Running,89,286,2329,153,Afternoon,Mobile
+A5014,U1103,2025-01-15,Cardio,50,696,5640,162,Night,Smartwatch
+A5015,U1151,2025-01-16,HIIT,38,662,9982,133,Afternoon,Fitness Band
+A5016,U1130,2025-01-17,Cardio,80,445,6107,112,Night,Smartwatch
+A5017,U1149,2025-01-18,HIIT,73,469,3341,129,Morning,Smartwatch
+A5018,U1052,2025-01-19,Cardio,58,498,10407,155,Afternoon,Mobile
+A5019,U1001,2025-01-20,Running,38,378,2338,124,Night,Smartwatch
+A5020,U1087,2025-01-21,HIIT,58,419,7895,134,Evening,Fitness Band
+A5021,U1157,2025-01-22,Yoga,86,440,4708,139,Evening,Fitness Band
+A5022,U1037,2025-01-23,Cardio,64,314,3750,123,Afternoon,Fitness Band
+A5023,U1129,2025-01-24,Cardio,32,154,7604,116,Afternoon,Fitness Band
+A5024,U1191,2025-01-25,HIIT,77,528,4421,126,Morning,Mobile
+A5025,U1187,2025-01-26,Yoga,39,227,9119,153,Afternoon,Smartwatch
+A5026,U1020,2025-01-27,Yoga,80,559,10901,129,Morning,Mobile
+A5027,U1160,2025-01-28,Running,58,281,7319,145,Morning,Smartwatch
+A5028,U1057,2025-01-29,Yoga,20,191,8609,118,Evening,Smartwatch
+A5029,U1021,2025-01-30,Yoga,22,238,7387,147,Evening,Smartwatch
+A5030,U1088,2025-01-31,Yoga,81,551,5993,157,Night,Mobile
