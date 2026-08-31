@@ -1,0 +1,201 @@
+User_ID,Age_Group,Region,Subscription_Type,Goal_Type,Preferred_Workout_Type,App_Join_Date
+U1000,45-54,Europe,Free,Endurance,HIIT,2025-01-01
+U1001,55+,Europe,Free,Weight Loss,Strength,2025-01-02
+U1002,35-44,Europe,Free,Endurance,Strength,2025-01-03
+U1003,55+,Asia-Pacific,Free,Weight Loss,Strength,2025-01-04
+U1004,55+,Asia-Pacific,Premium,Flexibility,Strength,2025-01-05
+U1005,25-34,Latin America,Free,Muscle Gain,Yoga,2025-01-06
+U1006,35-44,Latin America,Premium,Weight Loss,Yoga,2025-01-07
+U1007,35-44,North America,Free,Endurance,Strength,2025-01-08
+U1008,35-44,North America,Free,Flexibility,HIIT,2025-01-09
+U1009,55+,Latin America,Free,Weight Loss,Cardio,2025-01-10
+U1010,45-54,Asia-Pacific,Free,Weight Loss,Cardio,2025-01-11
+U1011,35-44,Europe,Premium,Flexibility,HIIT,2025-01-12
+U1012,55+,Latin America,Free,Weight Loss,Strength,2025-01-13
+U1013,25-34,North America,Free,Muscle Gain,Yoga,2025-01-14
+U1014,45-54,Asia-Pacific,Premium,Weight Loss,Cardio,2025-01-15
+U1015,25-34,Latin America,Free,Muscle Gain,Running,2025-01-16
+U1016,45-54,Latin America,Free,Muscle Gain,Running,2025-01-17
+U1017,55+,Asia-Pacific,Free,Flexibility,HIIT,2025-01-18
+U1018,18-24,Latin America,Free,Weight Loss,Strength,2025-01-19
+U1019,45-54,Asia-Pacific,Premium,Flexibility,Cardio,2025-01-20
+U1020,25-34,Europe,Free,Weight Loss,Strength,2025-01-21
+U1021,55+,Asia-Pacific,Free,Weight Loss,Cardio,2025-01-22
+U1022,45-54,Asia-Pacific,Free,Endurance,HIIT,2025-01-23
+U1023,18-24,Asia-Pacific,Premium,Weight Loss,HIIT,2025-01-24
+U1024,18-24,Latin America,Free,Flexibility,Running,2025-01-25
+U1025,35-44,Latin America,Free,Muscle Gain,Strength,2025-01-26
+U1026,35-44,Asia-Pacific,Premium,Weight Loss,Running,2025-01-27
+U1027,25-34,Latin America,Premium,Endurance,Strength,2025-01-28
+U1028,45-54,North America,Premium,Flexibility,Running,2025-01-29
+U1029,45-54,North America,Free,Weight Loss,Yoga,2025-01-30
+U1030,35-44,Latin America,Free,Flexibility,Yoga,2025-01-31
+U1031,45-54,Latin America,Free,Endurance,Yoga,2025-02-01
+U1032,45-54,Asia-Pacific,Free,Endurance,Yoga,2025-02-02
+U1033,18-24,Europe,Free,Flexibility,Cardio,2025-02-03
+U1034,35-44,Latin America,Premium,Weight Loss,Yoga,2025-02-04
+U1035,55+,North America,Free,Muscle Gain,HIIT,2025-02-05
+U1036,35-44,Asia-Pacific,Premium,Endurance,HIIT,2025-02-06
+U1037,55+,Latin America,Free,Weight Loss,Cardio,2025-02-07
+U1038,18-24,North America,Premium,Weight Loss,Yoga,2025-02-08
+U1039,25-34,North America,Free,Muscle Gain,Yoga,2025-02-09
+U1040,45-54,Europe,Free,Endurance,Yoga,2025-02-10
+U1041,18-24,Asia-Pacific,Premium,Endurance,Running,2025-02-11
+U1042,45-54,Asia-Pacific,Free,Weight Loss,Strength,2025-02-12
+U1043,25-34,Europe,Free,Weight Loss,Running,2025-02-13
+U1044,25-34,Europe,Premium,Muscle Gain,Strength,2025-02-14
+U1045,18-24,Asia-Pacific,Premium,Muscle Gain,Yoga,2025-02-15
+U1046,25-34,Asia-Pacific,Free,Endurance,Yoga,2025-02-16
+U1047,55+,Latin America,Free,Flexibility,Running,2025-02-17
+U1048,25-34,Latin America,Free,Endurance,Running,2025-02-18
+U1049,45-54,Europe,Premium,Weight Loss,Strength,2025-02-19
+U1050,45-54,Latin America,Free,Endurance,HIIT,2025-02-20
+U1051,45-54,North America,Free,Flexibility,Strength,2025-02-21
+U1052,45-54,Latin America,Free,Muscle Gain,Running,2025-02-22
+U1053,55+,Latin America,Free,Flexibility,Running,2025-02-23
+U1054,35-44,North America,Premium,Flexibility,Cardio,2025-02-24
+U1055,18-24,Europe,Free,Flexibility,Running,2025-02-25
+U1056,45-54,North America,Premium,Muscle Gain,Cardio,2025-02-26
+U1057,25-34,Latin America,Free,Flexibility,HIIT,2025-02-27
+U1058,45-54,Europe,Free,Flexibility,Strength,2025-02-28
+U1059,25-34,Latin America,Free,Flexibility,Strength,2025-03-01
+U1060,25-34,North America,Free,Weight Loss,Cardio,2025-03-02
+U1061,45-54,North America,Premium,Flexibility,Strength,2025-03-03
+U1062,55+,Latin America,Premium,Muscle Gain,Running,2025-03-04
+U1063,25-34,Asia-Pacific,Free,Flexibility,Yoga,2025-03-05
+U1064,25-34,Asia-Pacific,Premium,Flexibility,Cardio,2025-03-06
+U1065,45-54,North America,Free,Muscle Gain,Strength,2025-03-07
+U1066,25-34,North America,Premium,Flexibility,Cardio,2025-03-08
+U1067,25-34,Asia-Pacific,Free,Muscle Gain,Cardio,2025-03-09
+U1068,45-54,Asia-Pacific,Free,Flexibility,Yoga,2025-03-10
+U1069,45-54,Latin America,Free,Muscle Gain,Running,2025-03-11
+U1070,18-24,Latin America,Free,Flexibility,Cardio,2025-03-12
+U1071,55+,Asia-Pacific,Free,Flexibility,Strength,2025-03-13
+U1072,55+,Latin America,Free,Weight Loss,HIIT,2025-03-14
+U1073,25-34,Latin America,Free,Weight Loss,Cardio,2025-03-15
+U1074,55+,Europe,Free,Flexibility,Cardio,2025-03-16
+U1075,25-34,Latin America,Premium,Flexibility,Yoga,2025-03-17
+U1076,18-24,North America,Free,Endurance,Running,2025-03-18
+U1077,45-54,Latin America,Free,Muscle Gain,HIIT,2025-03-19
+U1078,45-54,Latin America,Premium,Endurance,Strength,2025-03-20
+U1079,45-54,Asia-Pacific,Premium,Weight Loss,HIIT,2025-03-21
+U1080,55+,North America,Free,Weight Loss,Strength,2025-03-22
+U1081,18-24,Latin America,Free,Weight Loss,Running,2025-03-23
+U1082,55+,Latin America,Premium,Weight Loss,Strength,2025-03-24
+U1083,55+,Europe,Free,Flexibility,Yoga,2025-03-25
+U1084,18-24,Latin America,Premium,Weight Loss,Yoga,2025-03-26
+U1085,18-24,Latin America,Premium,Flexibility,Yoga,2025-03-27
+U1086,18-24,Europe,Free,Flexibility,Yoga,2025-03-28
+U1087,18-24,Asia-Pacific,Free,Weight Loss,HIIT,2025-03-29
+U1088,45-54,Latin America,Premium,Weight Loss,Running,2025-03-30
+U1089,35-44,Europe,Free,Muscle Gain,Strength,2025-03-31
+U1090,35-44,North America,Free,Endurance,Strength,2025-04-01
+U1091,18-24,Asia-Pacific,Premium,Weight Loss,Yoga,2025-04-02
+U1092,35-44,North America,Premium,Muscle Gain,Yoga,2025-04-03
+U1093,35-44,North America,Premium,Muscle Gain,Cardio,2025-04-04
+U1094,18-24,Europe,Premium,Endurance,Running,2025-04-05
+U1095,35-44,Latin America,Premium,Flexibility,HIIT,2025-04-06
+U1096,55+,Europe,Premium,Weight Loss,Strength,2025-04-07
+U1097,25-34,Europe,Premium,Endurance,Cardio,2025-04-08
+U1098,25-34,Europe,Premium,Weight Loss,Cardio,2025-04-09
+U1099,18-24,Europe,Free,Muscle Gain,Strength,2025-04-10
+U1100,45-54,Asia-Pacific,Free,Muscle Gain,HIIT,2025-04-11
+U1101,18-24,Latin America,Premium,Flexibility,Cardio,2025-04-12
+U1102,45-54,North America,Premium,Muscle Gain,Cardio,2025-04-13
+U1103,25-34,North America,Premium,Muscle Gain,Running,2025-04-14
+U1104,18-24,Latin America,Premium,Endurance,HIIT,2025-04-15
+U1105,55+,North America,Premium,Weight Loss,Cardio,2025-04-16
+U1106,35-44,Latin America,Free,Weight Loss,HIIT,2025-04-17
+U1107,45-54,North America,Free,Endurance,Strength,2025-04-18
+U1108,35-44,Europe,Free,Flexibility,Yoga,2025-04-19
+U1109,35-44,North America,Free,Weight Loss,Cardio,2025-04-20
+U1110,18-24,Latin America,Free,Muscle Gain,Running,2025-04-21
+U1111,35-44,Latin America,Premium,Weight Loss,Strength,2025-04-22
+U1112,55+,Latin America,Free,Muscle Gain,HIIT,2025-04-23
+U1113,35-44,Latin America,Premium,Flexibility,Strength,2025-04-24
+U1114,18-24,Latin America,Free,Endurance,Cardio,2025-04-25
+U1115,55+,Asia-Pacific,Premium,Weight Loss,HIIT,2025-04-26
+U1116,25-34,Asia-Pacific,Free,Endurance,Yoga,2025-04-27
+U1117,35-44,North America,Free,Weight Loss,Strength,2025-04-28
+U1118,18-24,Latin America,Free,Muscle Gain,Cardio,2025-04-29
+U1119,25-34,North America,Premium,Endurance,Running,2025-04-30
+U1120,25-34,Latin America,Free,Weight Loss,HIIT,2025-05-01
+U1121,45-54,Latin America,Premium,Muscle Gain,Strength,2025-05-02
+U1122,55+,Asia-Pacific,Free,Endurance,Strength,2025-05-03
+U1123,35-44,Asia-Pacific,Free,Endurance,Yoga,2025-05-04
+U1124,18-24,Europe,Premium,Weight Loss,Yoga,2025-05-05
+U1125,45-54,Asia-Pacific,Free,Weight Loss,Running,2025-05-06
+U1126,55+,Europe,Free,Weight Loss,Running,2025-05-07
+U1127,45-54,Europe,Free,Muscle Gain,Cardio,2025-05-08
+U1128,55+,Europe,Free,Weight Loss,Cardio,2025-05-09
+U1129,55+,Europe,Premium,Endurance,Running,2025-05-10
+U1130,35-44,Europe,Free,Endurance,Running,2025-05-11
+U1131,55+,North America,Free,Weight Loss,HIIT,2025-05-12
+U1132,45-54,Asia-Pacific,Free,Weight Loss,Yoga,2025-05-13
+U1133,55+,Europe,Premium,Flexibility,Cardio,2025-05-14
+U1134,35-44,Latin America,Free,Endurance,Yoga,2025-05-15
+U1135,35-44,Asia-Pacific,Free,Muscle Gain,Yoga,2025-05-16
+U1136,45-54,Asia-Pacific,Premium,Flexibility,Running,2025-05-17
+U1137,25-34,Europe,Premium,Weight Loss,HIIT,2025-05-18
+U1138,25-34,North America,Free,Weight Loss,Strength,2025-05-19
+U1139,55+,Europe,Free,Endurance,HIIT,2025-05-20
+U1140,18-24,North America,Free,Weight Loss,HIIT,2025-05-21
+U1141,55+,Latin America,Free,Muscle Gain,Yoga,2025-05-22
+U1142,45-54,Asia-Pacific,Free,Endurance,HIIT,2025-05-23
+U1143,45-54,Latin America,Free,Weight Loss,Cardio,2025-05-24
+U1144,45-54,North America,Free,Endurance,Yoga,2025-05-25
+U1145,45-54,North America,Free,Weight Loss,Cardio,2025-05-26
+U1146,45-54,Latin America,Premium,Weight Loss,Strength,2025-05-27
+U1147,35-44,North America,Premium,Weight Loss,Yoga,2025-05-28
+U1148,25-34,Latin America,Free,Muscle Gain,Strength,2025-05-29
+U1149,45-54,Asia-Pacific,Premium,Muscle Gain,Yoga,2025-05-30
+U1150,18-24,Latin America,Premium,Endurance,Running,2025-05-31
+U1151,18-24,Asia-Pacific,Free,Weight Loss,HIIT,2025-06-01
+U1152,18-24,Latin America,Free,Weight Loss,Running,2025-06-02
+U1153,18-24,North America,Free,Muscle Gain,Strength,2025-06-03
+U1154,35-44,Latin America,Free,Weight Loss,HIIT,2025-06-04
+U1155,18-24,North America,Premium,Muscle Gain,Yoga,2025-06-05
+U1156,45-54,Latin America,Free,Weight Loss,HIIT,2025-06-06
+U1157,55+,Latin America,Free,Endurance,Cardio,2025-06-07
+U1158,18-24,Europe,Premium,Weight Loss,HIIT,2025-06-08
+U1159,35-44,North America,Premium,Weight Loss,Cardio,2025-06-09
+U1160,35-44,Europe,Free,Flexibility,HIIT,2025-06-10
+U1161,18-24,North America,Premium,Muscle Gain,Cardio,2025-06-11
+U1162,55+,Europe,Premium,Weight Loss,Strength,2025-06-12
+U1163,18-24,Asia-Pacific,Premium,Weight Loss,Running,2025-06-13
+U1164,35-44,Latin America,Free,Flexibility,Yoga,2025-06-14
+U1165,25-34,North America,Premium,Flexibility,HIIT,2025-06-15
+U1166,45-54,North America,Free,Muscle Gain,Running,2025-06-16
+U1167,35-44,Latin America,Premium,Flexibility,Yoga,2025-06-17
+U1168,18-24,North America,Premium,Endurance,Yoga,2025-06-18
+U1169,45-54,North America,Premium,Flexibility,Cardio,2025-06-19
+U1170,18-24,Europe,Premium,Endurance,Strength,2025-06-20
+U1171,18-24,North America,Premium,Muscle Gain,Strength,2025-06-21
+U1172,25-34,Asia-Pacific,Premium,Muscle Gain,Running,2025-06-22
+U1173,45-54,Asia-Pacific,Free,Muscle Gain,Strength,2025-06-23
+U1174,45-54,Latin America,Free,Muscle Gain,HIIT,2025-06-24
+U1175,25-34,North America,Free,Muscle Gain,Strength,2025-06-25
+U1176,35-44,Latin America,Premium,Endurance,Running,2025-06-26
+U1177,18-24,Asia-Pacific,Free,Endurance,Strength,2025-06-27
+U1178,55+,North America,Free,Muscle Gain,HIIT,2025-06-28
+U1179,18-24,North America,Free,Flexibility,Cardio,2025-06-29
+U1180,18-24,Latin America,Free,Weight Loss,Running,2025-06-30
+U1181,35-44,Asia-Pacific,Premium,Muscle Gain,Cardio,2025-07-01
+U1182,18-24,North America,Premium,Flexibility,Cardio,2025-07-02
+U1183,25-34,Latin America,Free,Weight Loss,Cardio,2025-07-03
+U1184,25-34,Asia-Pacific,Premium,Muscle Gain,Yoga,2025-07-04
+U1185,45-54,Latin America,Free,Muscle Gain,Yoga,2025-07-05
+U1186,55+,Europe,Free,Endurance,Cardio,2025-07-06
+U1187,18-24,North America,Premium,Weight Loss,Running,2025-07-07
+U1188,18-24,Europe,Free,Weight Loss,HIIT,2025-07-08
+U1189,35-44,Asia-Pacific,Free,Flexibility,HIIT,2025-07-09
+U1190,25-34,Europe,Premium,Endurance,Strength,2025-07-10
+U1191,55+,Europe,Free,Endurance,Running,2025-07-11
+U1192,45-54,Asia-Pacific,Free,Endurance,Yoga,2025-07-12
+U1193,25-34,Latin America,Free,Endurance,Cardio,2025-07-13
+U1194,45-54,Europe,Free,Weight Loss,Strength,2025-07-14
+U1195,35-44,Latin America,Free,Weight Loss,HIIT,2025-07-15
+U1196,35-44,Europe,Free,Muscle Gain,Yoga,2025-07-16
+U1197,18-24,Latin America,Premium,Muscle Gain,Yoga,2025-07-17
+U1198,55+,Asia-Pacific,Premium,Endurance,Cardio,2025-07-18
+U1199,45-54,Europe,Premium,Endurance,HIIT,2025-07-19
