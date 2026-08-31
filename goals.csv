@@ -1,0 +1,31 @@
+Goal_ID,User_ID,Goal_Type,Target_Value,Target_Metric,Start_Date,Target_Date,Goal_Status
+G2000,U1102,Endurance,60,Minutes/Session,2025-01-01,2025-03-02,In Progress
+G2001,U1179,Workout Frequency,4,Workouts/Week,2025-01-08,2025-03-09,In Progress
+G2002,U1092,Weight Loss,5,kg,2025-01-15,2025-03-16,Pending
+G2003,U1014,Calorie Burn,500,Calories/Day,2025-01-22,2025-03-23,Pending
+G2004,U1106,Workout Frequency,4,Workouts/Week,2025-01-29,2025-03-30,Pending
+G2005,U1071,Weight Loss,5,kg,2025-02-05,2025-04-06,Pending
+G2006,U1188,Weight Loss,5,kg,2025-02-12,2025-04-13,Completed
+G2007,U1020,Endurance,60,Minutes/Session,2025-02-19,2025-04-20,Completed
+G2008,U1121,Calorie Burn,500,Calories/Day,2025-02-26,2025-04-27,In Progress
+G2009,U1074,Daily Steps,10000,Steps/Day,2025-03-05,2025-05-04,Completed
+G2010,U1087,Weight Loss,5,kg,2025-03-12,2025-05-11,In Progress
+G2011,U1116,Daily Steps,10000,Steps/Day,2025-03-19,2025-05-18,Pending
+G2012,U1099,Workout Frequency,4,Workouts/Week,2025-03-26,2025-05-25,Pending
+G2013,U1103,Calorie Burn,500,Calories/Day,2025-04-02,2025-06-01,Pending
+G2014,U1151,Workout Frequency,4,Workouts/Week,2025-04-09,2025-06-08,Pending
+G2015,U1130,Endurance,60,Minutes/Session,2025-04-16,2025-06-15,In Progress
+G2016,U1149,Workout Frequency,4,Workouts/Week,2025-04-23,2025-06-22,In Progress
+G2017,U1052,Workout Frequency,4,Workouts/Week,2025-04-30,2025-06-29,Pending
+G2018,U1001,Weight Loss,5,kg,2025-05-07,2025-07-06,In Progress
+G2019,U1157,Calorie Burn,500,Calories/Day,2025-05-14,2025-07-13,In Progress
+G2020,U1037,Endurance,60,Minutes/Session,2025-05-21,2025-07-20,Completed
+G2021,U1129,Calorie Burn,500,Calories/Day,2025-05-28,2025-07-27,Completed
+G2022,U1191,Daily Steps,10000,Steps/Day,2025-06-04,2025-08-03,Completed
+G2023,U1187,Weight Loss,5,kg,2025-06-11,2025-08-10,Completed
+G2024,U1160,Endurance,60,Minutes/Session,2025-06-18,2025-08-17,Pending
+G2025,U1057,Endurance,60,Minutes/Session,2025-06-25,2025-08-24,Pending
+G2026,U1021,Endurance,60,Minutes/Session,2025-07-02,2025-08-31,In Progress
+G2027,U1088,Workout Frequency,4,Workouts/Week,2025-07-09,2025-09-07,Completed
+G2028,U1048,Daily Steps,10000,Steps/Day,2025-07-16,2025-09-14,Completed
+G2029,U1058,Endurance,60,Minutes/Session,2025-07-23,2025-09-21,Completed
